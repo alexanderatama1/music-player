@@ -1,1 +1,1 @@
-This music app is hosted on blob container storage on Azure.
+This music app is hosted via blob container storage on Azure.
